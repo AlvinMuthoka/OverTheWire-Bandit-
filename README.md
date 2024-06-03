@@ -8,6 +8,6 @@
 <h2>Getting Started</h2>
 <b>To get started I downloaded Ubuntu ver 24.04 and set up the VM using Oracle Virtual Box.
 </b>
-<p align="center">
+<p align="left">
 <img src="https://i.imgur.com/YTs30Ha.png" height="85%" width="85%" alt="Ubuntu Virtual Machine"/>
 </p>
