@@ -1,4 +1,4 @@
-# OverTheWire -Bandit-
+# OverTheWire-Bandit🏴‍☠️💰
 
 <h2>Description</h2>
 <b>Over The Wire (https://overthewire.org/wargames/bandit/) has a number of wargames you can play through to sharpen your skills and learn new skills using bash. I played through the "Bandit" wargame to test my skills and learn new ones in my journey to master bash & become a Cloud Engineer ☁️👨🏿‍💻☁️. Each of the levels and the bash commands I used to beat each level will be shown below.
