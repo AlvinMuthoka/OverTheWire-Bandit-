@@ -19,6 +19,7 @@
 <br />
 <b>
 "The password for the next level is stored in a file called readme located in the home directory. Use this password to log into bandit1 using SSH. Whenever you find a password for a level, use SSH (on port 2220) to log into that level and continue the game."
+</b>  
 <br />
 <br />
 <b>
@@ -26,3 +27,12 @@ This is the initial log on menu
 </b>
 <p aligh ="left">
 <img src="https://i.imgur.com/dWA7Z3R.png" height="85%" width="85%" alt="Ubuntu Virtual Machine"/>
+<br />
+<br />
+
+<b>
+I used "ls -a" to show all of the files/directories in the current folder and then used the "cat" command to display the contents of the "readme" file to get the password to logon to Level 1
+</b>  
+<p align="left">
+<img src="https://i.imgur.com/b8mSzA6.png" height="85%" width="85%" alt="Ubuntu Virtual Machine"/>
+
