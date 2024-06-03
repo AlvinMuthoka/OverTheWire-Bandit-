@@ -14,6 +14,7 @@
 <br />
 <br />
 <h2>Level 1</h2>
-<b> To log into the Bandit Linux server you need to use SSH. LogOn.sh shows the command & how I used it to get logged into the server. The prompt for Level 1 is below.
+<b> To log into the Bandit Linux server you need to use SSH. LogOn.sh shows the command & how I used it to get logged into the server. The prompt for Level 1 is below. </b>
+<b>
 "The password for the next level is stored in a file called readme located in the home directory. Use this password to log into bandit1 using SSH. Whenever you find a password for a level, use SSH (on port 2220) to log into that level and continue the game."
 </b>
