@@ -9,8 +9,8 @@
 <br />
 <br />
 <h2>Getting Started</h2>
-<b>To get started I downloaded Ubuntu ver 24.04 and set up the VM using Oracle Virtual Box.
-</b>
+<i>To get started I downloaded Ubuntu ver 24.04 and set up the VM using Oracle Virtual Box.
+</i>
 <p align="left">
 <img src="https://i.imgur.com/YTs30Ha.png" height="85%" width="85%" alt="Ubuntu Virtual Machine"/>
 </p>
@@ -25,17 +25,17 @@
 </b>  
 <br />
 <br />
-<b>
+<i>
 This is the initial log on menu
-</b>
+</i>
 <p aligh ="left">
 <img src="https://i.imgur.com/dWA7Z3R.png" height="85%" width="85%" alt="Ubuntu Virtual Machine"/>
 <br />
 <br />
 
-<b>
+<i>
 I used "ls -a" to show all of the files/directories in the current folder and then used the "cat" command to display the contents of the "readme" file to get the password to logon to Level 1
-</b>  
+</i>  
 <p align="left">
 <img src="https://i.imgur.com/b8mSzA6.png" height="85%" width="85%" alt="Ubuntu Virtual Machine"/>
 
