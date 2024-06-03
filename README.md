@@ -11,3 +11,8 @@
 <p align="left">
 <img src="https://i.imgur.com/YTs30Ha.png" height="85%" width="85%" alt="Ubuntu Virtual Machine"/>
 </p>
+<br />
+<br />
+<h2>Level 1</h2>
+<b>The password for the next level is stored in a file called readme located in the home directory. Use this password to log into bandit1 using SSH. Whenever you find a password for a level, use SSH (on port 2220) to log into that level and continue the game.
+</b>
