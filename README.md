@@ -2,8 +2,9 @@
 
 <h2>Description</h2>
 <b>Over The Wire (https://overthewire.org/wargames/bandit/) has a number of wargames you can play through to sharpen your skills and learn new skills using bash. I played through the "Bandit" wargame to test my skills and learn new ones in my journey to master bash & become a Cloud Engineer ☁️👨🏿‍💻☁️. Each of the levels and the bash commands I used to beat each level will be shown below. </b>
+<br /> 
 <br />  
-<b>There are 34 levels, so taking screenshots of everything & documenting would take a while, but I'll start with level 1 so you can get a feel for what things look like then I'll upload levels I found more challenging or learned something new in.
+<b>Note: There are 34 levels, so taking screenshots of everything & documenting would take a while, but I'll start with level 1 so you can get a feel for what things look like then I'll upload levels I found more challenging or learned something new in.
 </b>
 <br />
 <br />
